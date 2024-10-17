@@ -55,6 +55,7 @@ Clearly define the license under which the repository's work is shared.
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!---
+
 ## Contact
 
 - **Reach Out:** Contact details for questions, feedback, or ideas.
