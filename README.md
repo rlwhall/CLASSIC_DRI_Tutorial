@@ -42,7 +42,19 @@ Clearly define the license under which the repository's work is shared.
 
 - **Citation Instructions:** How to cite the project.
 - **Acknowledgment:** Recognising contributions by different members.
+--->
 
+## Contributors
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<!---
 ## Contact
 
 - **Reach Out:** Contact details for questions, feedback, or ideas.
