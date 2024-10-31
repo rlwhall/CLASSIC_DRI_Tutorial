@@ -7,10 +7,10 @@
 Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.
 --->
 
-This repository contains a tutorial for running the CLASSIC model on the Digital Research Alliance of Canada's Digital Research Infrastructure
+This repository contains a tutorial for running the CLASSIC model on the Digital Research Alliance of Canada's Digital Research Infrastructure.
 
-*Empowering Women in Environmental Sciences: Contextual Tutorial for Digital Research Infrastructure* is supported in part by funding from the Digital Research
-Alliance of Canada.
+*Empowering Women in Environmental Sciences: Contextual Tutorial for Digital Research Infrastructure* is supported in part by funding from the Digital Research Alliance of Canada.
+
 <p align="center">
   <a href="https://alliancecan.ca/en">
     <img src="images/alliance_logo_full.png" height="48" align="center" alt="Alliance Canada Logo">
@@ -19,18 +19,9 @@ Alliance of Canada.
 
 ## Project Background
 
-To goal of this project is to improve access to and knowledge of the Digital Research Alliance of Canada’s digital research infrastructure
-(DRI). This project will develop and deliver approachable tutorials for women in the environmental sciences
-and showcase a tangible use-case for high-performance computing (HPC) and cloud computing. These tutorials
-will demonstrate the setup and operation of CLASSIC-Canada on the DRAC HPC environment. 
+To goal of this project is to improve access to and knowledge of the Digital Research Alliance of Canada’s digital research infrastructure (DRI). This project will develop and deliver approachable tutorials for women in the environmental sciences and showcase a tangible use-case for high-performance computing (HPC) and cloud computing. These tutorials will demonstrate the setup and operation of CLASSIC-Canada on the DRAC HPC environment. 
 
-The CLASSIC
-model is an important land surface model in Canada, and is therefore an appealing and engaging example for
-environmental science researchers and students. This project aims to not only engage women with DRAC’s DRI
-through topics they are familiar with and interested in, but also provide useful and applicable resources for future
-environmental science research and researchers. This proposal will expose women to the concepts and possibilities of DRI, increase
-digital literacy, provide opportunities for role modelling and collaboration, and better understand barriers to DRI
-access. 
+The CLASSIC model is an important land surface model in Canada, and is therefore an appealing and engaging example for environmental science researchers and students. This project aims to not only engage women with DRAC’s DRI through topics they are familiar with and interested in, but also provide useful and applicable resources for future environmental science research and researchers. This proposal will expose women to the concepts and possibilities of DRI, increase digital literacy, provide opportunities for role modelling and collaboration, and better understand barriers to DRI access. 
 
 ## Project Roadmap
 
@@ -99,6 +90,7 @@ Alliance of Canada.
 The Digital Research Alliance of Canada plays a critical role in advancing the Government of Canada’s
 National DRI Strategy. It coordinates and funds activities related to and including Advanced Research
 Computing, Research Data Management, and Research Software. https://alliancecan.ca/en
+
 <p align="center">
   <a href="https://alliancecan.ca/en">
     <img src="images/alliance_logo_full.png" height="48" align="center" alt="Alliance Canada Logo">
