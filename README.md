@@ -1,5 +1,7 @@
 # Empowering Women in Environmental Sciences: Contextual Tutorials for Digital Research Infrastructure
 
+[<img src="images/alliance_logo_icon.png" height="38">](https://alliancecan.ca/en)
+
 # Project Quick Start
 <!---
 Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.
@@ -12,7 +14,7 @@ Alliance of Canada.
 
 ![Alliance Canada Logo](images/alliance_logo_full.png)
 
-# Project Background
+## Project Background
 
 To goal of this project is to improve access to and knowledge of the Digital Research Alliance of Canada’s digital research infrastructure
 (DRI). This project will develop and deliver approachable tutorials for women in the environmental sciences
@@ -81,3 +83,14 @@ Clearly define the license under which the repository's work is shared.
 - **Reach Out:** Contact details for questions, feedback, or ideas.
 
  --->
+
+ ## Acknowledgements
+
+*Empowering Women in Environmental Sciences: Contextual Tutorial for Digital Research Infrastructure* is supported in part by funding from the Digital Research
+Alliance of Canada.
+
+The Digital Research Alliance of Canada plays a critical role in advancing the Government of Canada’s
+National DRI Strategy. It coordinates and funds activities related to and including Advanced Research
+Computing, Research Data Management, and Research Software. https://alliancecan.ca/en
+
+![Alliance Canada Logo](images/alliance_logo_full.png)
