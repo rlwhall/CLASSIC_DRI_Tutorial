@@ -13,7 +13,7 @@ This repository contains a tutorial for running the CLASSIC model on the Digital
 Alliance of Canada.
 <p align="center">
   <a href="https://alliancecan.ca/en">
-    <img src="images/alliance_logo_full.png" height="38" align="center" alt="Alliance Canada Logo">
+    <img src="images/alliance_logo_full.png" height="48" align="center" alt="Alliance Canada Logo">
   </a>
 </p>
 
@@ -31,6 +31,10 @@ through topics they are familiar with and interested in, but also provide useful
 environmental science research and researchers. This proposal will expose women to the concepts and possibilities of DRI, increase
 digital literacy, provide opportunities for role modelling and collaboration, and better understand barriers to DRI
 access. 
+
+## Project Roadmap
+
+This project is underway. A roadmap has been created to map and track progress towards major project milestones. The roadmap can be accessed [here](https://github.com/users/rlwhall/projects/1/views/1).
 
 <!---
 ## Vision and Mission
@@ -95,5 +99,8 @@ Alliance of Canada.
 The Digital Research Alliance of Canada plays a critical role in advancing the Government of Canada’s
 National DRI Strategy. It coordinates and funds activities related to and including Advanced Research
 Computing, Research Data Management, and Research Software. https://alliancecan.ca/en
-
-![Alliance Canada Logo](images/alliance_logo_full.png)
+<p align="center">
+  <a href="https://alliancecan.ca/en">
+    <img src="images/alliance_logo_full.png" height="48" align="center" alt="Alliance Canada Logo">
+  </a>
+</p>
