@@ -7,6 +7,8 @@ Add Badges/GitHub shields, which are clickable buttons that provide concise acti
 
 *This repository contains a tutorial for running the CLASSIC model on the Digital Research Alliance of Canada's Digital Research Infrastructure* 
 
+![Alliance Canada Logo]("images/alliance_logo_full.png")
+
 # Project Background
 
 To goal of this project is to improve access to and knowledge of the Digital Research Alliance of Canada’s digital research infrastructure
