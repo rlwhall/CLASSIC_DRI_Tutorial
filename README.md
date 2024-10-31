@@ -5,9 +5,12 @@
 Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.
 --->
 
-*This repository contains a tutorial for running the CLASSIC model on the Digital Research Alliance of Canada's Digital Research Infrastructure* 
+This repository contains a tutorial for running the CLASSIC model on the Digital Research Alliance of Canada's Digital Research Infrastructure
 
-![Alliance Canada Logo]("images/alliance_logo_full.png")
+*Empowering Women in Environmental Sciences: Contextual Tutorial for Digital Research Infrastructure* is supported in part by funding from the Digital Research
+Alliance of Canada.
+
+![Alliance Canada Logo](images/alliance_logo_full.png)
 
 # Project Background
 
