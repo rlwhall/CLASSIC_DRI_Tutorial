@@ -11,8 +11,11 @@ This repository contains a tutorial for running the CLASSIC model on the Digital
 
 *Empowering Women in Environmental Sciences: Contextual Tutorial for Digital Research Infrastructure* is supported in part by funding from the Digital Research
 Alliance of Canada.
-
-![Alliance Canada Logo](images/alliance_logo_full.png)
+<p align="center">
+  <a href="https://alliancecan.ca/en">
+    <img src="images/alliance_logo_full.png" height="38" align="center" alt="Alliance Canada Logo">
+  </a>
+</p>
 
 ## Project Background
 
