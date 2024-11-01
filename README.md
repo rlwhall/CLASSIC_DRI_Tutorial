@@ -64,6 +64,10 @@ Clearly define the license under which the repository's work is shared.
 - **Acknowledgment:** Recognising contributions by different members.
 --->
 
+## Project Code of Conduct
+
+See [CODE_OF_CONDUCT.md](https://github.com/angular/code-of-conduct/blob/main/CODE_OF_CONDUCT.md).
+
 ## Contributors
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
