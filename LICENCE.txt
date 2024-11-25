@@ -1,5 +1,0 @@
-# CLASSIC licence
-https://gitlab.com/cccma/classic/-/blob/master/LICENCE.txt?ref_type=heads
-# Fluxnet data usage 
-https://fluxnet.org/data/data-policy/
-# 
