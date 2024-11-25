@@ -1,6 +1,14 @@
 # Empowering Women in Environmental Sciences: Contextual Tutorials for Digital Research Infrastructure
 
-[<img src="images/alliance_logo_icon.png" height="38">](https://alliancecan.ca/en)
+<p align="center">
+  <a href="https://alliancecan.ca/en">
+    <img src="images/alliance_logo_icon.png" height="38" alt="Alliance Canada Logo" align=center>
+  </a>
+  &emsp;&emsp;&emsp;
+  <a href="https://www.gnu.org/licenses/gpl-3.0">
+    <img src="https://img.shields.io/badge/License-GPLv3-blue.svg", alt="License: GPL v3" align=center>
+  </a>
+</p>
 
 # Project Quick Start
 <!---
