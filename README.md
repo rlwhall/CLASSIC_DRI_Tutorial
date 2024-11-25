@@ -33,16 +33,15 @@ Motivation and background in a nutshell.
 - **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
 - **Resource Plans:** Details on available resources and recommended practices for the project team.
 
-## Licensing
-
-Clearly define the license under which the repository's work is shared.
-(Example: This project is licensed under the MIT License - see the LICENSE.md file for details.)
-
 ## Citing & Acknowledgement
 
 - **Citation Instructions:** How to cite the project.
 - **Acknowledgment:** Recognising contributions by different members.
 --->
+
+## Licensing
+
+This repository is licensed under the GNU License - see the [LICENSE.md](https://github.com/angular/code-of-conduct/blob/main/LICENSE.md) file for details.
 
 ## Contributors
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
