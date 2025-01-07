@@ -4,7 +4,11 @@
   <a href="https://alliancecan.ca/en">
     <img src="images/alliance_logo_icon.png" height="38" alt="Alliance Canada Logo" align=center>
   </a>
-  &emsp;&emsp;&emsp;
+  &emsp;
+  <a href="https://ace-net.ca/">
+    <img src="images/acenet_logo_icon.png" height="38" alt="ACENET Logo" align=center>
+  </a>
+  &emsp;
   <a href="https://www.gnu.org/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GPLv3-blue.svg", alt="License: GPL v3" align=center>
   </a>
@@ -14,7 +18,7 @@
 
 This repository contains a tutorial for running the CLASSIC terrestrial biosphere model on the Digital Research Alliance of Canada's Digital Research Infrastructure.
 
-The tutorial in this repository was developed for the project *Empowintng*, as a part of the [DRI EDIA Champions Pilot Program](https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program). The goal of this project is to improve access to and knowledge of the Digital Research Alliance of Canada’s digital research infrastructure (DRI). This project will develop and deliver approachable tutorials for women in the environmental sciences and showcase a tangible use-case for high-performance computing (HPC) and cloud computing. These tutorials will demonstrate the setup and operation of CLASSIC on the DRAC HPC environment. 
+The tutorial in this repository was developed for the project *Empowering Women in Environmental Sciences: Contextual Tutorial for Digital Research Infrastructure*, as a part of the [DRI EDIA Champions Pilot Program](https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program). The goal of this project is to improve access to and knowledge of the Digital Research Alliance of Canada’s digital research infrastructure (DRI). This project will develop and deliver approachable tutorials for women in the environmental sciences and showcase a tangible use-case for high-performance computing (HPC) and cloud computing. These tutorials will demonstrate the setup and operation of CLASSIC on the DRAC HPC environment. 
 
 The CLASSIC model is an important land surface model in Canada, and is therefore an appealing and engaging example for environmental science researchers and students. This project aims to not only engage women with DRAC’s DRI through topics they are familiar with and interested in, but also provide useful and applicable resources for future environmental science research and researchers. This proposal will expose women to the concepts and possibilities of DRI, increase digital literacy, provide opportunities for role modelling and collaboration, and better understand barriers to DRI access. 
 
@@ -117,5 +121,13 @@ Computing, Research Data Management, and Research Software. https://alliancecan.
 <p align="center">
   <a href="https://alliancecan.ca/en">
     <img src="images/alliance_logo_full.png" height="48" align="center" alt="Alliance Canada Logo">
+  </a>
+</p>
+
+Technical support for the configuration and delivery of the *Empowering Women in Environmental Sciences: Contextual Tutorial for Digital Research Infrastructure* in-person workshops was graciously provided by Ross Dickson at ACENET. https://ace-net.ca/
+
+<p align="center">
+  <a href="https://ace-net.ca/">
+    <img src="images/acenet_logo_full.png" height="48" alt="ACENET Logo" align=center>
   </a>
 </p>
