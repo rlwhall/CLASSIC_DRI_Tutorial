@@ -12,6 +12,10 @@
   <a href="https://www.gnu.org/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GPLv3-blue.svg", alt="License: GPL v3" align=center>
   </a>
+  &emsp;
+  <a href=#contributors>
+    <img src="https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square", alt="All Contributors" alighn="center">
+  </a>
 </p>
 
 ## About
@@ -92,6 +96,10 @@ This repository is licensed under the GNU License - see the [LICENSE.md](https:/
 See [CODE_OF_CONDUCT.md](https://github.com/angular/code-of-conduct/blob/main/CODE_OF_CONDUCT.md).
 
 ## Contributors
+For details on how to contribute to this project, see the [CONTRIBUTING.md](https://github.com/angular/code-of-conduct/blob/main/LICENSE.md) file.
+
+Thanks go to our contributors ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -100,14 +108,6 @@ See [CODE_OF_CONDUCT.md](https://github.com/angular/code-of-conduct/blob/main/CO
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-<!---
-
-## Contact
-
-- **Reach Out:** Contact details for questions, feedback, or ideas.
-
- --->
 
  ## Acknowledgements
 
