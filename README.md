@@ -14,7 +14,7 @@
   </a>
   &emsp;
   <a href=#contributors>
-    <img src="https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449", alt="All Contributors" align="center">
+    <img src="https://img.shields.io/github/all-contributors/rlwhall/CLASSIC_DRI_Tutorial?color=ee8449", alt="All Contributors" align="center">
   </a>
 </p>
 
