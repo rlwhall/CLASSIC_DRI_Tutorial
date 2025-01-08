@@ -1,4 +1,22 @@
 {
-  "projectName": "classic_on_drac_tutorial",
-  "projectOwner": "rlwhall"
+  "projectName": "CLASSIC_DRI_Tutorial",
+  "projectOwner": "rlwhall",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "rlwhall",
+      "name": "Renée",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66327867?v=4",
+      "profile": "https://github.com/rlwhall",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ]
 }
