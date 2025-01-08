@@ -72,6 +72,13 @@ See [CODE_OF_CONDUCT.md](https://github.com/angular/code-of-conduct/blob/main/CO
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/rlwhall"><img src="https://avatars.githubusercontent.com/u/66327867?v=4?s=100" width="100px;" alt="Renée"/><br /><sub><b>Renée</b></sub></a><br /><a href="#code-rlwhall" title="Code">💻</a> <a href="#doc-rlwhall" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
