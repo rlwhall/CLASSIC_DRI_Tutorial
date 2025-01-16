@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://alliancecan.ca/en">
-    <img src="images/alliance_logo_icon.png" height="38" alt="Alliance Canada Logo" align=center>
+    <img src="docs/images/alliance_logo_icon.png" height="38" alt="Alliance Canada Logo" align=center>
   </a>
   &emsp;
   <a href="https://ace-net.ca/">
-    <img src="images/acenet_logo_icon.png" height="38" alt="ACENET Logo" align=center>
+    <img src="docs/images/acenet_logo_icon.png" height="38" alt="ACENET Logo" align=center>
   </a>
   &emsp;
   <a href="https://www.gnu.org/licenses/gpl-3.0">
@@ -30,7 +30,7 @@ The CLASSIC model is an important land surface model in Canada, and is therefore
 
 <p align="center">
   <a href="https://alliancecan.ca/en">
-    <img src="images/alliance_logo_full.png" height="48" align="center" alt="Alliance Canada Logo">
+    <img src="docs/images/alliance_logo_full.png" height="48" align="center" alt="Alliance Canada Logo">
   </a>
 </p>
 
@@ -127,7 +127,7 @@ Computing, Research Data Management, and Research Software. https://alliancecan.
 
 <p align="center">
   <a href="https://alliancecan.ca/en">
-    <img src="images/alliance_logo_full.png" height="48" align="center" alt="Alliance Canada Logo">
+    <img src="docs/images/alliance_logo_full.png" height="48" align="center" alt="Alliance Canada Logo">
   </a>
 </p>
 
@@ -135,6 +135,6 @@ Technical support for the configuration and delivery of the *Empowering Women in
 
 <p align="center">
   <a href="https://ace-net.ca/">
-    <img src="images/acenet_logo_full.png" height="48" alt="ACENET Logo" align=center>
+    <img src="docs/images/acenet_logo_full.png" height="48" alt="ACENET Logo" align=center>
   </a>
 </p>
