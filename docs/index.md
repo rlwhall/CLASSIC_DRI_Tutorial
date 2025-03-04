@@ -28,6 +28,4 @@ This workshop is ideal for women+ interested in earth and environmental sciences
 
 Don’t miss this opportunity to gain valuable skills and connect with like-minded individuals in a supportive learning environment.
 
-Register now to secure your spot!
-
-<a href="{{ site.github.repository_url }}" class="btn">Register</a>
+[Register now](www.google.ca) to secure your spot!
