@@ -1,3 +1,0 @@
-# Test site
-
-Some text
