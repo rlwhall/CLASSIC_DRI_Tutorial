@@ -24,7 +24,7 @@ This repository contains tutorials for running the CLASSIC terrestrial biosphere
 
 The tutorials in this repository were developed for the project *Empowering Women in Environmental Sciences: Contextual Tutorial for Digital Research Infrastructure*, as a part of the [DRI EDIA Champions Pilot Program](https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program). The goal of this project is to improve access to and knowledge of the Digital Research Alliance of Canada’s digital research infrastructure (DRI). This project developed and delivered approachable tutorials for women in the environmental sciences and showcased a tangible use-case for high-performance computing (HPC) and cloud computing. These tutorials detail the setup and operation of CLASSIC in an DRAC HPC environment. 
 
-The CLASSIC model is an important land surface model in Canada, therefore an appealing and engaging example for environmental science researchers and students. This project aims to not only engage women with DRAC’s DRI through topics they are familiar with and interested in, but also provide useful and applicable resources for future environmental science research and researchers. This proposal will expose women to the concepts and possibilities of DRI, increase digital literacy, provide opportunities for role modelling and collaboration, and better understand barriers to DRI access. 
+The CLASSIC model is an important land surface model in Canada, and therefore an appealing and engaging example for environmental science researchers and students. This project aims to not only engage women with DRAC’s DRI through topics they are familiar with and interested in, but also provide useful and applicable resources for future environmental science research and researchers. This proposal will expose women to the concepts and possibilities of DRI, increase digital literacy, provide opportunities for role modelling and collaboration, and better understand barriers to DRI access. 
 
 *Empowering Women in Environmental Sciences: Contextual Tutorial for Digital Research Infrastructure* is supported by funding from the Digital Research Alliance of Canada.
 
@@ -38,10 +38,10 @@ The CLASSIC model is an important land surface model in Canada, therefore an app
 
 ### Workshop & Tutorial Overview
 
-The tutorials in this repository were developed for a workshop designed to introduce women in the Earth and Environmental Sciences to digital research infrastructure. The workshop provided an introduction to digital research infrastructure and development tools such as the terminal, JupyterLab, Bash and Python. Attendees then had an opportunity to interact with a DRAC training environment called [Magic Castle](https://research-software-directory.org/software/magic-castle), where they submitted a slurm job to run CLASSIC at an eddy covariance tower location. Once the model simulation had run, attendees compared the model output to the observed eddy covariance tower data.
+The tutorials in this repository were developed for a workshop designed to introduce women in the Earth and Environmental Sciences to digital research infrastructure. The workshop provided an introduction to digital research infrastructure and development tools such as the terminal, JupyterLab, Bash and Python. Attendees had an opportunity to interact with a DRAC training environment called [Magic Castle](https://research-software-directory.org/software/magic-castle), where they submitted a slurm job to run CLASSIC at an eddy covariance tower location. Once the model simulation was complete, attendees compared the model output to the observed eddy covariance tower data.
 
-The workshop followed the a series of presentations and tutorials.
-- Introduction to the Digital Research Alliance of Canada (DRAC), Digital Research Infrastructure (DRI), Advanced Research Computing (ARC)
+The workshop followed a series of presentations and tutorials.
+- Introduction to the Digital Research Alliance of Canada (DRAC), digital research infrastructure (DRI), and advanced research computing (ARC)
   - Materials can be found in `docs/tutorial_files/Slides`.
 - Introduction to Earth system models and terrestrial biosphere models
   - Materials can be found in `docs/tutorial_files/Slides`.
@@ -55,7 +55,7 @@ The workshop followed the a series of presentations and tutorials.
 - Submitting a slurm job
   - Walkthrough with attendees on how to submit a CLASSIC model run as a slurm job.
   - Materials can be found in `docs/tutorial_files/Speaker_Notes/intro_to_drac_dri`.
-- Exploratory Data Analysis of model outputs
+- Exploratory data analysis of model outputs
   - Interactive activity with workshop attendees to visualize CLASSIC model outputs and compare them against observational data from a FLUXNET eddy covariance tower.
   - Materials can be found in `docs/tutorial_files/Speaker_Notes/intro_to_drac_dri`.
 
@@ -84,19 +84,19 @@ Speaker notes for the workshop facilitator can be found in `docs/tutorial_files/
 
 #### *ARC_for_EESC*
 
-The `docs/tutorial_files/ARC_for_EESC` folder contains the workshop materials the attendees will need to complete the interactive tutorials. 
+The `docs/tutorial_files/ARC_for_EESC` folder contains the workshop materials attendees need to complete the interactive tutorials. 
 
 *Folder Structure*
 
 The workshop materials assume the following folder structure within `ARC_for_EESC`. If folders are structured or named differently than what is specified below, the code may not exucute properly.
 
-Changes to the structure below, or the file names of the CLASSIC forcing data, may require updates to the `classic_submit_dra.sh`, `custom_job_options.txt`, and `EDA_template.ipynb` files.
+Changes to the structure below or the file names of the CLASSIC forcing data, may require updates to the `classic_submit_dra.sh`, `custom_job_options.txt`, and `EDA_template.ipynb` files.
 
 ```
 |-- ARC_for_EESC # Parent folder with all tutorial files
   |-- CLASSIC # Holds the contents of the CLASSIC repository
   |-- Forcing_T63 # Folder with CLASSIC forcing data
-    |-- CRUJRA_T63 # Folder with CRUJRA meterologicl forcing data
+    |-- CRUJRA_T63 # Folder with CRUJRA meterological forcing data
   |-- observationalDataFLUXNET # Folder with observed datasets from FLUXNET tower 
 ```
 
@@ -160,7 +160,7 @@ Computing, Research Data Management, and Research Software. https://alliancecan.
   </a>
 </p>
 
-Technical support for the configuration and delivery of the *Empowering Women in Environmental Sciences: Contextual Tutorial for Digital Research Infrastructure* in-person workshops was graciously provided by Ross Dickson at ACENET. https://ace-net.ca/
+Technical support for the configuration and delivery of the *Empowering Women in Environmental Sciences: Contextual Tutorial for Digital Research Infrastructure* in-person workshop was graciously provided by Ross Dickson at ACENET. https://ace-net.ca/
 
 <p align="center">
   <a href="https://ace-net.ca/">
